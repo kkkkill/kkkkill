@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on find the path to universe
-- 📫 How to reach me ...
+- 📫 How to reach me junli.yang#yangjunli.com
 
 <!---
 kkkkill/kkkkill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
