@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kkkkill
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on find the path to universe
+- 💞️ I'm looking for sponsorship for a project to explore the universe
 - 📫 How to reach me junli.yang#yangjunli.com
 
 <!---
