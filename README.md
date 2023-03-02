@@ -10,10 +10,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-1. 微信：
+1. wechat：
 
 ![微信](qr/wechat.png)
 
-2. 支付宝：
+2. alipay：
 
 ![支付宝](qr/zhifubao.png)
